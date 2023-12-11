@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'maxcaselinuxtest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_34D808892D474987BF03FF8D63E7918B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_73DC69C62C3A4E15B65DE579C3C1833D }}
